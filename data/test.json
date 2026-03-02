@@ -1,0 +1,24 @@
+{
+    "id": 32912,
+    "name": "test",
+    "author": "Bruger",
+    "creators": "Bruger",
+    "verifier": "Bruger",
+    "verification": "https://medal.tv/games/requested/clips/mdhAEPPKY8YPW4si9?invite=cr-MSxXaFYsNTYzMTc3MjEw",
+    "percentToQualify": 56,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "yopp",
+            "link": "https://www.youtube.com/watch?v=fXmQad8vWGs",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Clyde",
+            "link": "https://youtu.be/lDrKwWxkaxs",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
