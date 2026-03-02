@@ -9,10 +9,16 @@
     "password": "Free Copy",
     "records": [
         {
-            "user": "REAL VERIFICATION: Bruger",
-            "link": "https://medal.tv/games/requested/clips/mdhAEPPKY8YPW4si9?invite=cr-MSxXaFYsNTYzMTc3MjEw",
+            "user": "yopp",
+            "link": "https://www.youtube.com/watch?v=fXmQad8vWGs",
             "percent": 100,
-            "hz": 480
+            "hz": 0
+        },
+        {
+            "user": "Clyde",
+            "link": "https://youtu.be/lDrKwWxkaxs",
+            "percent": 100,
+            "hz": 0
         }
     ]
 }
