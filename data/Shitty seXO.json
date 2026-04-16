@@ -8,5 +8,11 @@
     "percentToQualify": 56,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Blessed Chaos",
+            "link": "https://www.youtube.com/watch?v=xxvJh73oqmo",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
